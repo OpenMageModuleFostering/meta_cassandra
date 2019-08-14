@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Meta_Cassandra>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Meta_Cassandra>
+    </modules>
+</config>

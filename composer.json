@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Meta_Cassandra",
+    "type": "magento-module",
+    "license": "Apache",
+    "homepage": "",
+    "description": "This is ported Cassandra PHP Client",
+    "authors": [
+    {
+        "name": "Vladyslav",
+        "email": "vmiller@meta-labs.org"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

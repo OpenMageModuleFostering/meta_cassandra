@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Meta_Cassandra>
+            <version>1.0.0</version>
+        </Meta_Cassandra>
+    </modules>
+    <global>
+        <resource>
+            <connection>
+                <types>
+                    <cassandra>
+                        <adapter>Meta_Cassandra_Model_Adapter_Cassandra</adapter>
+                        <compatibleMode>1</compatibleMode>
+                    </cassandra>
+                </types>
+            </connection>
+        </resource>
+    </global>
+</config>
