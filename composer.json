@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/Meta_Cassandra",
+    "name": "openmage-module-fostering\/meta_cassandra",
     "type": "magento-module",
     "license": "Apache",
     "homepage": "",
